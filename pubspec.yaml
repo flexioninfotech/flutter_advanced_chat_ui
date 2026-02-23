@@ -1,0 +1,28 @@
+name: flutter_advanced_chat_ui
+description: A highly customizable chat interface for Flutter with conversation list, message thread, search, reactions, replies, and typing indicators.
+version: 1.0.0
+homepage: https://github.com/flexioninfotech/flutter_advanced_chat_ui
+repository: https://github.com/flexioninfotech/flutter_advanced_chat_ui
+issue_tracker: https://github.com/flexioninfotech/flutter_advanced_chat_ui/issues
+documentation: https://github.com/flexioninfotech/flutter_advanced_chat_ui/blob/main/README.md
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+topics:
+  - chat
+  - ui
+  - messaging
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
